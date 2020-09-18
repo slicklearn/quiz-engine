@@ -1,4 +1,4 @@
-let challenges = [
+let lista = [
 
     {
         "type": "learning",
